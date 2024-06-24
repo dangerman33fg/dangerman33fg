@@ -1,0 +1,10 @@
+      String value = input.next();
+      System.out.println("Using next(): " + value);
+
+      input.close();
+   }
+}
+import java.util.Scanner;
+
+class Main {
+   public static void main(String[] args) {
