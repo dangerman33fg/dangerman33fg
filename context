@@ -1,0 +1,7 @@
+context.fillRect  (185, 5, 50, 50);
+context.strokeRect(185, 5, 50, 50);
+context.restore();
+
+context.fillRect  (245, 5, 50, 50);
+context.strokeRect(245, 5, 50, 50);
+</script>
